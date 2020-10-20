@@ -1,0 +1,10 @@
+{
+  "name": "whirl",
+  "version": "1.0.0",
+  "description": "Simplest Global State Manager",
+  "main": "dist/index.js",
+  "repository": "https://github.com/krystian-mw/whirl",
+  "author": "krystian-mw <krystian@mwebdev.co.uk>",
+  "license": "MIT",
+  "private": false
+}
