@@ -6,5 +6,16 @@
   "repository": "https://github.com/krystian-mw/whirl",
   "author": "krystian-mw <krystian@mwebdev.co.uk>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.53",
+    "react": "16.14.0",
+    "typescript": "3.4.3"
+  },
+  "peerDependencies": {
+    "react": "^16"
+  }
 }
